@@ -1,0 +1,1 @@
+Contiene el registro de los paquetes que el proyecto requiere para funcionar y otras configuraciones del proyecto.

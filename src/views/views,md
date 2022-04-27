@@ -1,0 +1,12 @@
+carpeta views 
+
+Aquí pondremos todas nuestras vistas. En nuestro caso serán archivos ejs.
+
+partials
+Aquí pondremos archivos parciales. Es decir, aquellos que se repiten en varias páginas como el header, el menú, el footer, etc.
+
+products
+Aquí pondremos todas las vistas que tengan relación con los productos, como los listados, el detalle, los formularios de creación, etc.
+
+user
+Aquí pondremos todas las vistas que tengan relación con los usuarios, como el registro, el login, el perfil, etc.

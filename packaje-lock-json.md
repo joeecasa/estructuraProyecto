@@ -1,0 +1,1 @@
+Contiene el registro de las versiones específicas de los paquetes que se instalaron en nuestro proyecto.
